@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    box-shadow: rgba(49, 47, 47, 0.301) 0px 19px 38px, rgba(235, 235, 235, 0.445) 0px 15px 12px;
+    padding: 15px 36px;
+   
+}
+
+.navlogo{
+    padding:1%;
+    max-width: 100px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+.Upper-logo{
+    margin-top: 35px;
+    width: 80%;
+    align-self: center;
+
+}
+
+.Upper-head{
+   font-size: 35px;
+   padding-left: 26px;
+   margin-bottom: 0px;
+
+}
+.Upper-text{
+   font-size: 20px;
+   padding-left: 26px;
+}
