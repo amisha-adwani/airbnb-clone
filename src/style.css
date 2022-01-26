@@ -71,3 +71,17 @@ font-size: 12px;
     flex-direction: row;
     color:grey;
 }
+
+.cardList{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.cardBadge{
+    position: absolute;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
+}
